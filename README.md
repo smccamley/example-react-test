@@ -3,6 +3,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
+## Why's and hows
+I have created the project using create react app to speed up development. To ensure the code can be further
+developed I have enabled continuous testing and deployment. I have not used redux as the project is simple.
+I have used react extensions to ensure state is immutable. I have also used pure components and minimised the 
+use of arrow functions in render functions to ensure the app is performant.
+
+The project is online at [here](http://test.itrex.co.uk).
+
 ## Table of Contents
 
 - [Updating to New Releases](#updating-to-new-releases)
